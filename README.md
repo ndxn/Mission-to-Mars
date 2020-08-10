@@ -1,3 +1,3 @@
 # Mission to Mars
 
-Portfoliio will be forthcoming. Not required per rubric.
+Portfolio will be forthcoming. Not required per rubric.
